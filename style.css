@@ -21,6 +21,10 @@ h2 {
   color: #ADD8E6;
 }
 
+p {
+  font-family: 'helvetica';
+  color: #ffffff;
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #000000;
