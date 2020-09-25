@@ -7,23 +7,9 @@ body {
   ),
   
   background-color: gray;
-  background-image: url("https://i.imgur.com/aChReMi.png")
+  background-image: url("/backgrounds/bg1.png")
 }
 
-h1 {
-  font-style: italic;
-  color: #373fff;
-}
-
-h2 {
-  font-family: 'helvetica';
-  font-style: bold;
-  color: #ADD8E6;
-}
-
-p {
-  font-family: 'helvetica';
-  color: #ffffff;
 
 /* Add a black background color to the top navigation */
 .topnav {
