@@ -8,6 +8,8 @@ body {
   
   background-color: gray;
   background-image: url(/backgrounds/bg1.png)
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 
