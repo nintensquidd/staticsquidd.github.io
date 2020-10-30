@@ -39,3 +39,16 @@ body {
   background-color: #3ECEE7;
   color: white;
 }
+
+/* links */
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: gray;
+}
+
+a:hover {
+  color: black;
+}
