@@ -7,10 +7,10 @@ body {
   ),
   
   background-color: gray;
-  background-image: url(/images/demo.gif)
-  background-repeat: no-repeat;
+  background-image: url(/images/demo.gif);
   background-size: auto;
-  b
+  background-repeat: none;
+
 
 }
 
