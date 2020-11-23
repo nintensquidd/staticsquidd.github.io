@@ -8,8 +8,9 @@ body {
   
   background-color: gray;
   background-image: url(/images/demo.gif);
-  background-size: auto;
+  background-size: contain;
   background-repeat: none;
+  o
 
 
 }
