@@ -29,7 +29,7 @@ github_username:  nintensquidd
 domain: staticsquidd.com
 
 # Build settings
-theme: minima
+theme: dinky
 plugins:
   - jekyll-feed
 
