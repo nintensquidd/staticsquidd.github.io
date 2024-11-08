@@ -1,2 +1,10 @@
 title: The StaticSquidd Website
 description: Awesome.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - 404.md
+  - construction.md
